@@ -1,0 +1,77 @@
+DOMAINS THAT HAVE BEEN TESTED :
+1. juno.com
+2. netzero.net
+3. netzero.com
+4. t-online.de
+5. arcor.de
+6. freenet.de
+7. shaw.ca
+8. charter.net
+9. earthlink.net
+10. cox.net
+11. sympatico.ca
+12. bellnet.ca
+13. libero.it
+14. virgilio.it
+15. tin.it
+16. alice.it
+17. wp.pl
+18. orange.fr
+19. sfr.fr
+20. neuf.fr
+21. btinternet.com
+22. vp.pl
+23. bigpond.com
+24. bigpond.com.au
+25. bigpond.net.au
+26. bigpond.net
+27. telstra.com
+28. poczta.onet.pl
+29. onet.pl
+30. free.fr 
+31. wanadoo.fr
+32. ntlworld.com
+33. bell.net
+34. centrum.cz
+35. rambler.ru
+36. naver.com
+37. op.pl
+38. abv.bg
+39. telia.com
+40. meta.ua
+41. videotron.ca
+42. optonline.net
+43. interia.pl
+44. o2.pl
+45. virginmedia.com
+46. bbox.fr
+47. optusnet.com.au
+48. laposte.net
+AND OTHERS
+
+DOMAINS THAT DO NOT SUPPORT:
+
+hotmail.
+msn.
+outlook.
+live.
+gmx.
+web.
+comcast.
+verizon.
+aol.
+yahoo.
+icloud.
+gmail.
+ameritech.net
+att.net
+bellsouth.net
+currently.com
+flash.net
+nvbell.net
+pacbell.net
+prodigy.net
+sbcglobal.net
+snet.net
+swbell.net
+wans.net
